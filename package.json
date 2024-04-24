@@ -86,7 +86,7 @@
     "jsdom": "^21.1.0",
     "lint-staged": "^13.1.2",
     "npm-check-updates": "^16.7.5",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "prettier": "^2.8.4",
     "semantic-release": "^20.1.0",
     "supabase": "^1.38.6",
